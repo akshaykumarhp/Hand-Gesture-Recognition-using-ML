@@ -1,13 +1,18 @@
 Hand Gesture Recognition and Voice Conversion
+
 Overview
+
 This project aims to bridge communication gaps for the deaf and aphonic communities by converting hand gestures to voice, text to speech, voice to text, and voice to hand gestures. Utilizing advanced libraries such as OpenCV, MediaPipe, TensorFlow, and several others, this project leverages computer vision and machine learning to interpret hand gestures and convert them into spoken words or text, and vice versa.
 
 Features
+
 Gesture to Voice: Converts recognized hand gestures into spoken words.
 Text to Speech: Converts input text into audible speech.
 Voice to Text: Translates spoken words into text.
 Voice to Gesture: Shows a gesture corresponding to spoken words.
+
 Prerequisites
+
 Before running this application, ensure you have Python installed on your system. You can download it from python.org. Additionally, you will need to install several Python libraries.
 
 Installation
